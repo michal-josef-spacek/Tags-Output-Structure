@@ -1,6 +1,5 @@
 TODO
 ====
-1. Prvni verze, kdy se bude do interni struktury ukladat vystup.
 2. Docela neprakticke je dat komentar mezi zacatek tagu a atribut. Pak je
     error. Bylo by dobre to presunout za/pred tag.
 3. Pridat xml parameter.
@@ -9,3 +8,5 @@ TODO
 
 Applied
 =======
+1. Prvni verze, kdy se bude do interni struktury ukladat vystup.
+OK [20150318] skim
