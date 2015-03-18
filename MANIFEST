@@ -13,6 +13,7 @@ LICENSE
 Makefile.PL
 MANIFEST			This list of files
 META.yml
+SIGNATURE
 Structure.pm
 t/Tags-Output-Structure/00-use.t
 t/Tags-Output-Structure/01-version.t
