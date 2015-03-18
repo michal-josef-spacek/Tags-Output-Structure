@@ -1,5 +1,5 @@
 ---
-abstract: TODO
+abstract: "Structure class for 'Tags' output."
 author:
   - 'Michal Spacek <skim@cpan.org>'
 build_requires:

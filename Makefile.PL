@@ -6,7 +6,7 @@ use warnings;
 use inc::Module::Install;
 
 # Definition.
-abstract 'TODO';
+abstract "Structure class for 'Tags' output.";
 author 'Michal Spacek <skim@cpan.org>';
 license 'bsd';
 name 'Tags-Output-Structure';
