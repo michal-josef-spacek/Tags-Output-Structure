@@ -1,4 +1,5 @@
 0.02
+ - Add minimal version of Perl.
  - Add tests.
  - Fix abstract name in Makefile.PL.
  - Fix instruction processing.
