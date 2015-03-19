@@ -10,6 +10,7 @@ abstract "Structure class for 'Tags' output.";
 author 'Michal Spacek <skim@cpan.org>';
 license 'bsd';
 name 'Tags-Output-Structure';
+readme_from 'Structure.pm';
 requires 'Class::Utils' => 0.01;
 requires 'HTML::Entities' => 0;
 requires 'Error::Pure' => 0.01;
