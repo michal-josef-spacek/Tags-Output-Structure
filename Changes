@@ -1,5 +1,6 @@
 0.02
  - Fix abstract name in Makefile.PL.
+ - Fix instruction processing.
  - Update META.yml file.
 
 0.01 2015-03-18T13:53:24+01:00

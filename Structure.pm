@@ -91,7 +91,11 @@ sub _put_end_of_tag {
 # Instruction.
 sub _put_instruction {
 	my ($self, $target, $code) = @_;
-	$self->_put_structure('i', $target, $code);
+	my @instruction = ('i', $target);
+	if ($code) {
+		push @instruction, $code;
+	}
+	$self->_put_structure(@instruction);
 	return;
 }
 
