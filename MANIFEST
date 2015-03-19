@@ -19,3 +19,10 @@ t/Tags-Output-Structure/00-use.t
 t/Tags-Output-Structure/01-version.t
 t/Tags-Output-Structure/02-pod_coverage.t
 t/Tags-Output-Structure/03-pod.t
+t/Tags-Output-Structure/04-new.t
+t/Tags-Output-Structure/05-put-comment.t
+t/Tags-Output-Structure/06-put-simple_tag.t
+t/Tags-Output-Structure/07-put-tag.t
+t/Tags-Output-Structure/08-put-instruction.t
+t/Tags-Output-Structure/09-put-cdata.t
+t/Tags-Output-Structure/10-put-raw.t
