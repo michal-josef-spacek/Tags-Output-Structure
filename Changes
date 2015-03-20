@@ -1,4 +1,5 @@
 0.03
+ - Fix dependencies.
  - Fix minimal version of Perl in META.yml file.
  - Fix test depdendencies.
 

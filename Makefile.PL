@@ -11,11 +11,8 @@ author 'Michal Spacek <skim@cpan.org>';
 license 'bsd';
 name 'Tags-Output-Structure';
 readme_from 'Structure.pm';
-requires 'Class::Utils' => 0.01;
-requires 'HTML::Entities' => 0;
-requires 'Error::Pure' => 0.01;
-requires 'Exporter' => 0;
-requires 'Readonly' => 0;
+requires 'Error::Pure' => 0.22;
+requires 'Tags::Output' => 0.03;
 requires 'perl' => '5.6.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Tags-Output-Structure';
