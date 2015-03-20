@@ -1,5 +1,6 @@
 0.03
  - Fix minimal version of Perl in META.yml file.
+ - Fix test depdendencies.
 
 0.02 2015-03-20T07:19:20+01:00
  - Add README file.
