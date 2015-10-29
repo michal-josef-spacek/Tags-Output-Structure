@@ -331,7 +331,8 @@ __END__
 
 =head1 DEPENDENCIES
 
-L<Error::Pure>.
+L<Error::Pure>,
+L<Tags::Output>.
 
 =head1 SEE ALSO
 
