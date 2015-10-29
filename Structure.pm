@@ -9,7 +9,7 @@ use warnings;
 use Error::Pure qw(err);
 
 # Version.
-our $VERSION = 0.04;
+our $VERSION = 0.05;
 
 # Flush.
 sub flush {
@@ -365,6 +365,6 @@ L<http://skim.cz>
 
 =head1 VERSION
 
-0.04
+0.05
 
 =cut
