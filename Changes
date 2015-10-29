@@ -1,5 +1,6 @@
 0.04
  - Fix DEPENDENCIES section in doc.
+ - Improve SEE ALSO section in doc.
  - Update Module::Install to 1.16 version.
 
 0.03 2015-03-21T14:47:52+01:00

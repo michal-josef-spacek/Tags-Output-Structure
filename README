@@ -190,8 +190,14 @@ DEPENDENCIES
     Error::Pure, Tags::Output.
 
 SEE ALSO
-    Tags, Tags::Output, Tags::Output::Indent, Tags::Output::PYX,
-    Tags::Output::Raw.
+    Tags
+        Structure oriented SGML/XML/HTML/etc. elements manipulation.
+
+    Tags::Output
+        Base class for Tags::Output::*.
+
+    Task::Tags
+        Install the Tags modules.
 
 AUTHOR
     Michal Špaček <mailto:skim@cpan.org>

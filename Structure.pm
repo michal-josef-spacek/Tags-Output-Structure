@@ -336,11 +336,21 @@ L<Tags::Output>.
 
 =head1 SEE ALSO
 
-L<Tags>,
-L<Tags::Output>,
-L<Tags::Output::Indent>,
-L<Tags::Output::PYX>,
-L<Tags::Output::Raw>.
+=over
+
+=item L<Tags>
+
+Structure oriented SGML/XML/HTML/etc. elements manipulation.
+
+=item L<Tags::Output>
+
+Base class for Tags::Output::*.
+
+=item L<Task::Tags>
+
+Install the Tags modules.
+
+=back
 
 =head1 AUTHOR
 
