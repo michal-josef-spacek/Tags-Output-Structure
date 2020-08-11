@@ -29,7 +29,7 @@ requires:
   perl: 5.6.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Tags-Output-Structure
-  homepage: https://github.com/tupinek/Tags-Output-Structure
+  homepage: https://github.com/michal-josef-spacek/Tags-Output-Structure
   license: http://opensource.org/licenses/bsd-license.php
-  repository: git://github.com/tupinek/Tags-Output-Structure
+  repository: git://github.com/michal-josef-spacek/Tags-Output-Structure
 version: '0.05'
