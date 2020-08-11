@@ -345,6 +345,10 @@ Install the Tags modules.
 
 =back
 
+=head1 REPOSITORY
+
+L<https://github.com/michal-josef-spacek/Tags-Output-Structure>
+
 =head1 AUTHOR
 
 Michal Špaček L<mailto:skim@cpan.org>
