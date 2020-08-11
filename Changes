@@ -6,6 +6,7 @@
  - Update Module::Install to 1.19 version.
  - Update author github username.
  - Update author username.
+ - Update copyright years.
 
 0.04 2015-10-29T22:43:02+01:00
  - Fix DEPENDENCIES section in doc.
