@@ -1,14 +1,11 @@
 package Tags::Output::Structure;
 
-# Pragmas.
 use base qw(Tags::Output);
 use strict;
 use warnings;
 
-# Modules.
 use Error::Pure qw(err);
 
-# Version.
 our $VERSION = 0.05;
 
 # Flush.
@@ -221,11 +218,9 @@ __END__
 
 =head1 EXAMPLE1
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Data::Printer;
  use Tags::Output::Structure;
 
@@ -292,11 +287,9 @@ __END__
 
 =head1 EXAMPLE2
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Tags::Output::Structure;
 
  # Object.

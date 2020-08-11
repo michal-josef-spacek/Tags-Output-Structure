@@ -79,11 +79,9 @@ ERRORS
              Ending bad tag: '%s' in block of tag '%s'.
 
 EXAMPLE1
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Data::Printer;
      use Tags::Output::Structure;
 
@@ -149,11 +147,9 @@ EXAMPLE1
      # ]
 
 EXAMPLE2
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Tags::Output::Structure;
 
      # Object.
