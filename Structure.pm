@@ -125,6 +125,7 @@ __END__
 =head1 SYNOPSYS
 
  use Tags::Output::Structure;
+
  my $obj = Tags::Output::Structure->new(%parameters);
  $obj->finalize;
  my $ret_ar = $obj->flush($reset_flag);
