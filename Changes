@@ -1,5 +1,6 @@
 0.06
  - Fix bugtracker.
+ - Rewrite doc to use =head2 in METHODS section.
  - Update copyright years.
 
 0.05 2020-08-11T22:32:43+02:00
