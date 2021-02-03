@@ -1,4 +1,4 @@
-0.06
+0.06 2021-02-03T23:10:07+01:00
  - Fix bugtracker.
  - Rewrite doc to use =head2 in METHODS section.
  - Update copyright years.
