@@ -1,4 +1,5 @@
 0.07
+ - Rewrite $ret variable to $ret_ar to better understanding of what it is.
 
 0.06 2021-02-03T23:10:07+01:00
  - Fix bugtracker.

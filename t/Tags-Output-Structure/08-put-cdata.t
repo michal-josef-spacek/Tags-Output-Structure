@@ -10,9 +10,9 @@ my $obj = Tags::Output::Structure->new;
 $obj->put(
 	['cd', '<tag attr="value">'],
 );
-my $ret = $obj->flush;
+my $ret_ar = $obj->flush;
 is_deeply(
-	$ret,
+	$ret_ar,
 	[
 		['cd', '<tag attr="value">'],
 	],

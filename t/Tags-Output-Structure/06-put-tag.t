@@ -13,9 +13,9 @@ $obj->put(
 	['d', 'data'],
 	['e', 'MAIN'],
 );
-my $ret = $obj->flush;
+my $ret_ar = $obj->flush;
 is_deeply(
-	$ret,
+	$ret_ar,
 	[
 		['b', 'MAIN'],
 		['d', 'data'],
@@ -32,9 +32,9 @@ $obj->put(
 	['d', 'data'],
 	['e', 'MAIN'],
 );
-$ret = $obj->flush;
+$ret_ar = $obj->flush;
 is_deeply(
-	$ret,
+	$ret_ar,
 	[
 		['b', 'MAIN'],
 		['a', 'id', 'id_value'],
@@ -56,9 +56,9 @@ $obj->put(
 	['d', 'data'],
 	['e', 'MAIN'],
 );
-$ret = $obj->flush;
+$ret_ar = $obj->flush;
 is_deeply(
-	$ret,
+	$ret_ar,
 	[
 		['b', 'MAIN'],
 		['a', 'id', 'id_value'],
@@ -80,9 +80,9 @@ $obj->put(
 	['d', $long_data],
 	['e', 'MAIN'],
 );
-$ret = $obj->flush;
+$ret_ar = $obj->flush;
 is_deeply(
-	$ret,
+	$ret_ar,
 	[
 		['b', 'MAIN'],
 		['d', $long_data],
@@ -99,9 +99,9 @@ $obj->put(
 	['d', $long_data],
 	['e', 'MAIN'],
 );
-$ret = $obj->flush;
+$ret_ar = $obj->flush;
 is_deeply(
-	$ret,
+	$ret_ar,
 	[
 		['b', 'MAIN'],
 		['d', $long_data],

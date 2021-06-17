@@ -11,9 +11,9 @@ $obj->put(
 	['i', 'perl'],
 	['i', 'perl', 'print "1";'],
 );
-my $ret = $obj->flush;
+my $ret_ar = $obj->flush;
 is_deeply(
-	$ret,
+	$ret_ar,
 	[
 		['i', 'perl'],
 		['i', 'perl', 'print "1";'],
