@@ -4,7 +4,7 @@ TODO
     error. Bylo by dobre to presunout za/pred tag.
 3. Pridat xml parameter.
 4. Data callback (vhodne pro prekodovani do utf8).
-5. Testy.
+5. Testy pro vystup do stringu.
 6.
 
 Applied
