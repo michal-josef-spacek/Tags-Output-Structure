@@ -6,7 +6,7 @@ use warnings;
 
 use Error::Pure qw(err);
 
-our $VERSION = 0.08;
+our $VERSION = 0.09;
 
 # Flush.
 sub flush {
@@ -400,6 +400,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.08
+0.09
 
 =cut
