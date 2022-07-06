@@ -1,4 +1,5 @@
 0.07
+ - Add Error::Pure::Utils::clean() to tests for cleanup of errors stack.
  - Rewrite $ret variable to $ret_ar to better understanding of what it is.
  - Update copyright years.
 

@@ -2,6 +2,7 @@ use strict;
 use warnings;
 
 use English qw(-no_match_vars);
+use Error::Pure::Utils qw(clean);
 use Tags::Output::Structure;
 use Test::More 'tests' => 7;
 use Test::NoWarnings;
@@ -120,3 +121,4 @@ eval {
 };
 is($EVAL_ERROR, "Ending bad tag: 'MAIN2' in block of tag 'MAIN'.\n",
 	"Ending bad tag: 'MAIN2' in block of tag 'MAIN'.");
+clean();
